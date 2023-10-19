@@ -1,0 +1,265 @@
+id_magang,Jurusan
+ID-1,It
+ID-1,Statistika
+ID-1,Matematika
+ID-2,Teknik Elektro
+ID-2,Ekonomi
+ID-2,Desain Komunikasi Visual
+ID-2,Teknik Industri
+ID-2,Desain Produk
+ID-2,Teknik Mekatronika
+ID-2,Teknik Telekomunikasi
+ID-2,Manajemen
+ID-2,It
+ID-2,Ilmu Komunikasi
+ID-3,It
+ID-3,Statistika
+ID-3,Matematika
+ID-4,It
+ID-4,Statistika
+ID-4,Matematika
+ID-5,Statistika
+ID-5,Administrasi Publik
+ID-6,Statistika
+ID-6,Politik
+ID-7,No Requirement
+ID-8,Adm Dan Kebijakan Kesehatan
+ID-8,K3
+ID-8,Statistika
+ID-8,Kesehatan Lingkungan
+ID-8,Manajemen
+ID-8,Kesehatan Masyarakat
+ID-8,Matematika
+ID-9,Hubungan Industrial
+ID-9,Logistik
+ID-9,Statistika
+ID-9,Manajemen
+ID-9,Matematika
+ID-10,It
+ID-10,Statistika
+ID-10,Matematika
+ID-11,Kehutanan
+ID-12,Aktuaria
+ID-12,Statistika
+ID-13,Statistika
+ID-13,Matematika
+ID-13,Akuntansi
+ID-14,Ekonomi
+ID-14,Akuntansi
+ID-14,Statistika
+ID-14,Aktuaria
+ID-14,Matematika
+ID-15,Geografi
+ID-15,Geodesi
+ID-15,Statistika
+ID-15,Sosiologi
+ID-15,It
+ID-15,Kehutanan
+ID-15,Matematika
+ID-16,Manajemen
+ID-16,Statistika
+ID-16,Teknik Industri
+ID-17,It
+ID-17,Matematika
+ID-17,Statistika
+ID-17,Teknik Industri
+ID-18,Manajemen
+ID-18,It
+ID-18,Statistika
+ID-18,Matematika
+ID-19,Manajemen
+ID-19,It
+ID-19,Statistika
+ID-19,Matematika
+ID-20,Manajemen
+ID-20,It
+ID-20,Statistika
+ID-20,Matematika
+ID-21,Manajemen
+ID-21,It
+ID-21,Statistika
+ID-21,Matematika
+ID-22,Manajemen
+ID-22,It
+ID-22,Statistika
+ID-22,Matematika
+ID-23,Manajemen
+ID-23,It
+ID-23,Statistika
+ID-23,Matematika
+ID-24,Manajemen
+ID-24,It
+ID-24,Statistika
+ID-24,Matematika
+ID-25,Manajemen
+ID-25,It
+ID-25,Statistika
+ID-25,Matematika
+ID-26,Teknik
+ID-27,Ekonomi
+ID-27,Statistika
+ID-27,Teknik Industri
+ID-28,It
+ID-28,Statistika
+ID-28,Matematika
+ID-29,Administrasi Perkantoran
+ID-30,It
+ID-31,Relevan
+ID-32,It
+ID-33,No Requirement
+ID-34,It
+ID-35,Hukum
+ID-36,Pemasaran
+ID-36,Statistika
+ID-36,Bisnis
+ID-37,It
+ID-37,Statistika
+ID-38,Manajemen
+ID-38,Hukum
+ID-38,Psikologi
+ID-39,It
+ID-39,Statistika
+ID-40,It
+ID-40,Manajemen
+ID-41,Relevan
+ID-42,It
+ID-42,Statistika
+ID-42,Matematika
+ID-43,It
+ID-43,Statistika
+ID-43,Matematika
+ID-44,It
+ID-44,Bisnis
+ID-44,Aktuaria
+ID-44,Matematika
+ID-45,It
+ID-45,Bisnis
+ID-45,Aktuaria
+ID-45,Matematika
+ID-46,It
+ID-46,Statistika
+ID-46,Matematika
+ID-47,Relevan
+ID-48,No Requirement
+ID-49,Ekonomi
+ID-49,Teknik Industri
+ID-49,Manajemen
+ID-49,Statistika
+ID-49,It
+ID-49,Matematika
+ID-50,Teknik Industri
+ID-50,Statistika
+ID-50,It
+ID-50,Matematika
+ID-51,It
+ID-52,It
+ID-52,Matematika
+ID-53,It
+ID-53,Statistika
+ID-54,It
+ID-54,Statistika
+ID-54,Teknik Industri
+ID-54,Manajemen
+ID-55,It
+ID-55,Matematika
+ID-56,It
+ID-56,Statistika
+ID-56,Matematika
+ID-57,It
+ID-58,Ekonomi
+ID-58,Physics
+ID-58,Engineering
+ID-58,It
+ID-58,Matematika
+ID-59,It
+ID-59,Statistika
+ID-59,Matematika
+ID-60,It
+ID-60,Statistika
+ID-61,No Requirement
+ID-62,It
+ID-62,Statistika
+ID-63,It
+ID-63,Desain Komunikasi Visual
+ID-64,It
+ID-64,Statistika
+ID-64,Matematika
+ID-65,No Requirement
+ID-66,It
+ID-67,It
+ID-68,It
+ID-68,Matematika
+ID-69,It
+ID-70,It
+ID-71,It
+ID-71,Teknik Telekomunikasi
+ID-72,It
+ID-73,It
+ID-73,Statistika
+ID-73,Matematika
+ID-74,No Requirement
+ID-75,No Requirement
+ID-76,It
+ID-77,It
+ID-78,No Requirement
+ID-79,Teknik Elektro
+ID-79,Ekonomi
+ID-79,Desain Komunikasi Visual
+ID-79,Teknik Industri
+ID-79,Desain Produk
+ID-79,Teknik Mekatronika
+ID-79,Teknik Telekomunikasi
+ID-79,Manajemen
+ID-79,It
+ID-79,Ilmu Komunikasi
+ID-80,It
+ID-80,Matematika
+ID-81,It
+ID-82,It
+ID-83,It
+ID-84,Teknik Sipil
+ID-85,It
+ID-86,Teknik Lingkungan
+ID-86,Kehutanan
+ID-86,Pertanian
+ID-87,Statistika
+ID-88,Ekonomi
+ID-88,Akuntansi
+ID-88,Statistika
+ID-88,Aktuaria
+ID-88,Matematika
+ID-89,Ekonomi
+ID-89,Akuntansi
+ID-89,Statistika
+ID-89,Manajemen
+ID-89,It
+ID-89,Matematika
+ID-90,It
+ID-90,Statistika
+ID-90,Teknik Industri
+ID-90,Manajemen
+ID-91,It
+ID-91,Statistika
+ID-92,No Requirement
+ID-93,It
+ID-93,Statistika
+ID-93,Matematika
+ID-93,Teknik Industri
+ID-94,Bisnis
+ID-94,Geografi
+ID-94,Ekonomi
+ID-94,Manajemen
+ID-94,Statistika
+ID-94,It
+ID-94,Matematika
+ID-95,No Requirement
+ID-96,No Requirement
+ID-97,Teknik Elektro
+ID-97,It
+ID-98,It
+ID-99,It
+ID-99,Statistika
+ID-99,Matematika
+ID-100,It
+ID-100,Matematika
+ID-101,It

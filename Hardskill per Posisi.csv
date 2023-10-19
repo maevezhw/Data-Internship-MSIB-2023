@@ -1,0 +1,343 @@
+id_magang,Hard Skill
+ID-1,Data Mining
+ID-1,Machine Learning
+ID-1,Power Bi
+ID-1,Zoho
+ID-1,Tableau
+ID-1,Dashboard
+ID-1,Web
+ID-1,Visualisasi
+ID-1,Software
+ID-1,Kibana
+ID-2,Desain
+ID-2,Programming
+ID-2,Visualisasi
+ID-3,Web
+ID-4,Programming
+ID-5,Microsoft Office
+ID-6,Microsoft Office
+ID-6,Data
+ID-7,Power Point
+ID-7,Data
+ID-7,Excel
+ID-7,Sql
+ID-10,Microsoft Office
+ID-10,Data
+ID-10,Excel
+ID-15,Data
+ID-16,Microsoft Excel
+ID-16,Data
+ID-16,Python
+ID-16,Tableau
+ID-16,Clustering
+ID-16,Classification
+ID-16,Regression
+ID-17,Visualisasi
+ID-17,Data
+ID-18,Power Point
+ID-18,Excel
+ID-19,Power Point
+ID-19,Excel
+ID-20,Power Point
+ID-20,Excel
+ID-21,Power Point
+ID-21,Excel
+ID-22,Power Point
+ID-22,Excel
+ID-23,Power Point
+ID-23,Excel
+ID-24,Power Point
+ID-24,Excel
+ID-25,Power Point
+ID-25,Excel
+ID-26,Database
+ID-26,Data
+ID-26,Visualisasi
+ID-26,Query
+ID-26,Sql
+ID-27,Microsoft Office
+ID-27,Power Point
+ID-27,Excel
+ID-28,Python
+ID-28,Sql
+ID-29,Microsoft Office
+ID-29,Excel
+ID-30,Data
+ID-32,Data
+ID-32,Excel
+ID-33,Machine Learning
+ID-33,Power Bi
+ID-33,Data
+ID-33,Programming
+ID-33,Python
+ID-33,R
+ID-33,Intelligence
+ID-33,Query
+ID-33,Sql
+ID-34,Data
+ID-34,React
+ID-34,Web
+ID-34,Java
+ID-34,Programming
+ID-34,Laravel
+ID-34,Software
+ID-34,Html
+ID-34,Php
+ID-35,Office
+ID-36,Microsoft Office
+ID-36,Data
+ID-36,Excel
+ID-36,Software
+ID-36,Power Point
+ID-37,Microsoft Office
+ID-37,Data
+ID-37,Excel
+ID-37,Software
+ID-37,Power Point
+ID-38,Office
+ID-39,Machine Learning
+ID-39,Python
+ID-39,Correlation
+ID-39,R
+ID-39,Sql
+ID-40,Data
+ID-40,Software
+ID-40,Visualisasi
+ID-41,Microsoft Office
+ID-41,Excel
+ID-42,Data
+ID-43,Python
+ID-43,Data
+ID-43,Tableau
+ID-43,Programming
+ID-43,Bi
+ID-43,Power Bi
+ID-43,Sql
+ID-44,Data
+ID-44,Programming
+ID-44,Python
+ID-44,Java
+ID-44,Programming
+ID-44,Algorithm
+ID-44,Software
+ID-44,Django
+ID-44,Sql
+ID-45,Data
+ID-45,Programming
+ID-45,Python
+ID-45,Java
+ID-45,Programming
+ID-45,Algorithm
+ID-45,Software
+ID-45,Django
+ID-45,Sql
+ID-46,Microsoft Office
+ID-46,Python
+ID-46,Data
+ID-46,Programming
+ID-46,Sql
+ID-48,Desain
+ID-49,Microsoft Excel
+ID-49,Data
+ID-49,Dashboard
+ID-49,Tableau
+ID-49,Programming
+ID-49,Software
+ID-49,Power Bi
+ID-49,Spreadsheet
+ID-49,Sql
+ID-50,Microsoft Office
+ID-50,Data
+ID-50,Excel
+ID-51,Python
+ID-51,Mysql
+ID-51,Java
+ID-51,Postgresql
+ID-51,Programming
+ID-51,Html
+ID-51,Sql
+ID-52,Excel
+ID-54,Machine Learning
+ID-54,Python
+ID-54,Java
+ID-54,Programming
+ID-54,Query
+ID-54,Sql
+ID-55,Machine Learning
+ID-55,Python
+ID-56,Data Mining
+ID-56,Power Bi
+ID-56,Git
+ID-57,Machine Learning
+ID-57,Data
+ID-57,Python
+ID-57,Clustering
+ID-57,Classification
+ID-57,Regression
+ID-57,Machine Learning
+ID-59,Programming
+ID-59,Python
+ID-59,Mysql
+ID-60,Data Mining
+ID-60,Machine Learning
+ID-60,Programming
+ID-60,Python
+ID-60,R
+ID-60,Sql
+ID-62,Machine Learning
+ID-62,Python
+ID-62,Correlation
+ID-62,R
+ID-62,Sql
+ID-63,Data
+ID-63,Software
+ID-63,Desain
+ID-63,Visualisasi
+ID-64,Microsoft Office
+ID-64,Database
+ID-64,Data
+ID-64,Excel
+ID-64,Tableau
+ID-64,Software
+ID-65,Desain
+ID-66,Python
+ID-66,Web
+ID-66,Dashboard
+ID-66,Visualisasi
+ID-66,Programming
+ID-66,Laravel
+ID-66,Html
+ID-66,R
+ID-66,Software
+ID-66,Etl
+ID-66,Hadoop
+ID-66,Php
+ID-66,Sql
+ID-67,Web
+ID-68,Power Bi
+ID-68,Database
+ID-68,Data
+ID-68,Visualisasi
+ID-68,Data Warehouse
+ID-68,Etl
+ID-68,Sql
+ID-69,Database
+ID-69,Programming
+ID-69,Data
+ID-70,Data
+ID-70,Programming
+ID-70,Algorithm
+ID-70,Software
+ID-70,Visualisasi
+ID-70,Sql
+ID-71,Python
+ID-71,Power Bi
+ID-71,Tableau
+ID-71,Mysql
+ID-73,Data Mining
+ID-73,Power Bi
+ID-73,Git
+ID-74,Database
+ID-74,Python
+ID-74,Data
+ID-74,Mysql
+ID-74,Programming
+ID-75,Database
+ID-75,Python
+ID-75,Mysql
+ID-75,Programming
+ID-75,Postgresql
+ID-75,Query
+ID-75,Office
+ID-75,Linux
+ID-76,Database
+ID-76,Sql
+ID-77,Machine Learning
+ID-77,Data
+ID-77,Python
+ID-77,Clustering
+ID-77,Classification
+ID-77,Regression
+ID-77,Machine Learning
+ID-78,Desain
+ID-79,Desain
+ID-79,Programming
+ID-79,Visualisasi
+ID-80,Artificial Intelligence
+ID-80,Machine Learning
+ID-80,Data
+ID-81,Machine Learning
+ID-81,Data
+ID-81,Python
+ID-81,Clustering
+ID-81,Classification
+ID-81,Regression
+ID-81,Machine Learning
+ID-82,Computer Vision
+ID-82,Machine Learning
+ID-82,Oop
+ID-82,Pytorch
+ID-82,Machine Learning
+ID-83,Query
+ID-83,Data
+ID-83,Sql
+ID-87,Data
+ID-87,Software
+ID-89,Python
+ID-89,Data
+ID-89,Excel
+ID-89,Programming
+ID-89,Power Point
+ID-89,Sql
+ID-90,Python
+ID-90,Database
+ID-90,Mysql
+ID-90,Java
+ID-90,Programming
+ID-90,Hadoop
+ID-90,Query
+ID-90,Sql
+ID-91,Python
+ID-91,Data
+ID-91,Programming
+ID-91,Query
+ID-91,Sql
+ID-92,Data
+ID-92,Sql
+ID-93,Data Mining
+ID-93,Tableau
+ID-93,Excel
+ID-94,Data
+ID-95,Microsoft Excel
+ID-95,Power Bi
+ID-95,Data
+ID-95,Sql
+ID-96,Database
+ID-96,Data
+ID-96,Programming
+ID-96,Python
+ID-96,Mysql
+ID-96,Postgresql
+ID-96,Laravel
+ID-96,Visualisasi
+ID-96,Etl
+ID-96,Php
+ID-96,Sql
+ID-98,Programming
+ID-98,Python
+ID-98,Sql
+ID-99,Microsoft Office
+ID-99,Machine Learning
+ID-99,Python
+ID-99,Data
+ID-99,Programming
+ID-99,Github
+ID-99,Sql
+ID-100,Artificial Intelligence
+ID-100,Machine Learning
+ID-100,Data
+ID-101,Database
+ID-101,React
+ID-101,Mysql
+ID-101,Php
+ID-101,Sql

@@ -1,0 +1,102 @@
+id_magang,id_kategori,Posisi,id_perusahaan,Lokasi,Semester,IPK
+ID-1,K-5,IT Data Analyst,P-41,Kota Jakarta Pusat,5,3
+ID-2,K-5,Data Analyst,P-10,Kab. Sleman,5,3
+ID-3,K-5,Data Analyst (PDDikti),P-35,Kota Jakarta Pusat,5,No Requirement
+ID-4,K-5,Data Analyst Intern,P-2,Kota Jakarta Timur,6,No Requirement
+ID-5,K-5,5. Policy Data Analyst,P-8,Kota Jakarta Selatan,6,No Requirement
+ID-6,K-5,2. Data Processing & Analyst,P-8,Kota Jakarta Selatan,6,No Requirement
+ID-7,K-5,Data Analyst,P-14,Kota Surabaya,No Requirement,No Requirement
+ID-8,K-5,Facility Data Analyst,P-34,Kota Jakarta Selatan,No Requirement,No Requirement
+ID-9,K-5,SCM Data Analyst,P-34,Kota Jakarta Selatan,No Requirement,No Requirement
+ID-10,K-5,Operation Data Analyst,P-50,Kota Jakarta Selatan,5,No Requirement
+ID-11,K-5,Data Analyst & SOP Project Carbon Forest Intern,P-11,Kota Jakarta Timur,5,No Requirement
+ID-12,K-5,Data Analyst,P-18,Kota Jakarta Pusat,5,No Requirement
+ID-13,K-5,Data Analyst,P-18,Kota Jakarta Pusat,5,No Requirement
+ID-14,K-5,Data Analyst,P-18,Kota Jakarta Pusat,5,No Requirement
+ID-15,K-5,Data Analyst (Pengelolaan Data Dan Informasi Percepatan Rehabilitasi Mangrove Dan Restorasi Gambut),P-52,Kota Jakarta Pusat,5,No Requirement
+ID-16,K-5,Pricing and Data Analyst Intern ,P-44,Kota Jakarta Selatan,5,No Requirement
+ID-17,K-5,Data Science Analyst,P-19,Kota Jakarta Utara,6,No Requirement
+ID-18,K-5,MARKETING DATA ANALYST  MEDAN,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-19,K-5,MARKETING DATA ANALYST  KOTABUMI,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-20,K-5,MARKETING DATA ANALYST  SIDOARJO,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-21,K-5,MARKETING DATA ANALYST  REMBANG,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-22,K-5,MARKETING DATA ANALYST  BANDUNG 2,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-23,K-5,MARKETING DATA ANALYST  LAMPUNG,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-24,K-5,MARKETING DATA ANALYST  MALANG,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-25,K-5,MARKETING DATA ANALYST  HEAD OFFICE,P-51,Kota Tangerang,No Requirement,No Requirement
+ID-26,K-5,ICT – Data Analyst (Google Studio/Looker Studio),P-6,Kota Jakarta Pusat,5,No Requirement
+ID-27,K-5,Data Analyst Intern,P-42,Kota Jakarta Pusat,6,No Requirement
+ID-28,K-5,Data Analyst,P-23,Kota Jakarta Selatan,5,No Requirement
+ID-29,K-5,Mechanization Data Analyst,P-33,Kota Jakarta Selatan,5,No Requirement
+ID-30,K-5,Data Analyst,P-43,Kota Bandung,No Requirement,No Requirement
+ID-31,K-5,Data Analyst,P-43,Kota Bandung,5,No Requirement
+ID-32,K-5,Data Analyst Intern,P-45,Kota Jakarta Selatan,5,No Requirement
+ID-33,K-5,Data Analyst ,P-25,Kota Jakarta Selatan,5,No Requirement
+ID-34,K-5,Data Analyst,P-16,Kota Medan,5,No Requirement
+ID-35,K-5,IR Data Analyst,P-32,Kab. Banyuwangi,6,3.5
+ID-36,K-5,Data Analyst,P-20,Kota Jakarta Pusat,6,No Requirement
+ID-37,K-5,Data Analyst for CEO Office - SinemArt,P-20,Kota Jakarta Pusat,6,No Requirement
+ID-38,K-5,HR Data Analyst,P-32,Kab. Banyuwangi,6,3.5
+ID-39,K-5,DATA SCIENTIST & ANALYST INTERN,P-3,Kota Makassar,5,No Requirement
+ID-40,K-5,Data Analyst Intern,P-9,Kota Jakarta Selatan,6,No Requirement
+ID-41,K-5," Information Technology Support , Database dan Analyst,  IOT Implementation",P-4,Kab. Bekasi,5,No Requirement
+ID-42,K-5,E-Commerce Data Analyst Intern,P-47,Kota Jakarta Selatan,No Requirement,No Requirement
+ID-43,K-5,Data Analyst ,P-39,Kota Jakarta Selatan,6,No Requirement
+ID-44,K-5,Data Analyst Intern,P-21,Kota Jakarta Selatan,5,No Requirement
+ID-45,K-5,Data Analyst Intern,P-21,Kota Jakarta Selatan,5,No Requirement
+ID-46,K-5,Data Analyst Intern,P-28,Kota Jakarta Pusat,6,No Requirement
+ID-47,K-5,Data Analyst,P-13,Kota Surabaya,5,No Requirement
+ID-48,K-5,"Analyst : Data Analyst, Data Engineer, Data Scientist, Programmer",P-46,Kota Jakarta Pusat,No Requirement,No Requirement
+ID-49,K-5,Data Analyst,P-31,Kota Jakarta Barat,5,No Requirement
+ID-50,K-5,Data Analyst,P-40,Kota Bandung,6,3
+ID-51,K-5,Data Analyst,P-29,Kota Jakarta Pusat,5,No Requirement
+ID-52,K-5,Product - CDP Data Analyst,P-38,Kota Jakarta Pusat,No Requirement,No Requirement
+ID-53,K-3,Data Scientist,P-36,Kota Jakarta Pusat,5,No Requirement
+ID-54,K-3,Data Scientist Intern,P-44,Kota Jakarta Selatan,6,No Requirement
+ID-55,K-3,Data Scientist Intern,P-44,Kota Jakarta Selatan,5,No Requirement
+ID-56,K-3,Data Scientist,P-44,Kota Jakarta Selatan,No Requirement,No Requirement
+ID-57,K-3,SERA - AI Engineer and Data Scientist,P-19,Kota Jakarta Utara,6,No Requirement
+ID-58,K-3,Data Scientist Intern,P-30,Kota Tangerang Selatan,7,No Requirement
+ID-59,K-3,Business Data Scientist,P-12,Kab. Badung,5,No Requirement
+ID-60,K-3,Data Scientist,P-23,Kota Jakarta Selatan,5,No Requirement
+ID-61,K-3,Data Scientist,P-43,"Kota Bandung, Jakarta",6,No Requirement
+ID-62,K-3,DATA SCIENTIST & ANALYST INTERN,P-3,Kota Makassar,5,No Requirement
+ID-63,K-3,Data Scientist,P-39,Kota Jakarta Selatan,6,No Requirement
+ID-64,K-3,Data Scientist,P-49,Kota Surabaya,5,No Requirement
+ID-65,K-3,"Analyst : Data Analyst, Data Engineer, Data Scientist, Programmer",P-46,Kota Jakarta Pusat,No Requirement,No Requirement
+ID-66,K-4,IT Data Engineer,P-41,Kota Jakarta Pusat,5,3
+ID-67,K-4,Database Engineer (SISTER),P-35,Kota Jakarta Pusat,5,No Requirement
+ID-68,K-4,DE - Data Engineering,P-48,Kota Jakarta Pusat,6,No Requirement
+ID-69,K-4,Data Engineer Intern,P-53,Kota Jakarta Barat,5,No Requirement
+ID-70,K-4,"GOTO Tech Internship (Engineering, Data, Design & Research)",P-17,Kota Jakarta Selatan,5,No Requirement
+ID-71,K-4,Data Engineer Intern,P-44,Kota Jakarta Selatan,5,No Requirement
+ID-72,K-4,Data Engineer Intern,P-44,Kota Jakarta Selatan,6,No Requirement
+ID-73,K-4,Data Engineer,P-44,Kota Jakarta Selatan,No Requirement,No Requirement
+ID-74,K-4,Data Engineer Intern,P-44,Kota Jakarta Selatan,5,No Requirement
+ID-75,K-4,Data Engineer  ,P-26,Kab. Tangerang,No Requirement,No Requirement
+ID-76,K-4,SERA - Data Engineer,P-19,Kota Jakarta Utara,6,No Requirement
+ID-77,K-4,SERA - AI Engineer and Data Scientist,P-19,Kota Jakarta Utara,6,No Requirement
+ID-78,K-4,"Analyst : Data Analyst, Data Engineer, Data Scientist, Programmer",P-46,Kota Jakarta Pusat,No Requirement,No Requirement
+ID-79,K-2,AI Engineer,P-10,Kab. Sleman,5,3
+ID-80,K-2,Artificial Intelligence (AI) Engineer (Blockchain),P-35,Kota Jakarta Pusat,6,No Requirement
+ID-81,K-2,SERA - AI Engineer and Data Scientist,P-19,Kota Jakarta Utara,6,No Requirement
+ID-82,K-2,AI Engineer,P-22,Kab. Sleman,6,No Requirement
+ID-83,K-5,Penyusun Query Untuk Analisis Data Perguruan Tinggi,P-1,Kota Jakarta Timur,No Requirement,No Requirement
+ID-84,K-5,Analis Data Sipil,P-5,Kab. Dairi,5,3
+ID-85,K-5,Analis Data Informatika,P-5,Kab. Dairi,5,3
+ID-86,K-5,Analis Data Kehutanan,P-5,Kab. Dairi,5,3
+ID-87,K-5,Data Analis,P-27,Kab. Sleman,6,No Requirement
+ID-88,K-5,Data analytic,P-18,Kota Jakarta Pusat,5,No Requirement
+ID-89,K-5,Finance Data Analytics Intern,P-44,Kota Jakarta Selatan,5,No Requirement
+ID-90,K-5,Data Analytic,P-44,Kota Jakarta Selatan,6,No Requirement
+ID-91,K-5,TSO - Business Intelligence & Data Analytics,P-19,Kota Jakarta Utara,5,No Requirement
+ID-92,K-5,Data Analytics Intern,P-30,Kota Tangerang Selatan,7,No Requirement
+ID-93,K-5,Business Intelligence Data & Analytics,P-37,Kota Jakarta Pusat,5,No Requirement
+ID-94,K-5,Product & Data Analytics,P-54,Kota Jakarta Selatan,No Requirement,No Requirement
+ID-95,K-5,Data Analytics,P-7,Kota Jakarta Selatan,6,No Requirement
+ID-96,K-5,Data Integration & Analytics,P-24,Kota Jakarta Selatan,6,No Requirement
+ID-97,K-5,Network Data Analytics & Robotic Process Automation,P-15,Kota Jakarta Selatan,5,3
+ID-98,K-1,Machine Learning Engineer Intern,P-44,Kota Jakarta Selatan,6,No Requirement
+ID-99,K-1,Machine Learning Engineer Intern,P-28,Kota Jakarta Pusat,6,No Requirement
+ID-100,K-2,Artificial Intelligence (AI) Engineer (Blockchain),P-35,Kota Jakarta Pusat,6,No Requirement
+ID-101,K-2,Artificial Intelligence Intern,P-3,Kota Makassar,5,No Requirement
